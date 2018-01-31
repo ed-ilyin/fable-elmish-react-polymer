@@ -1,0 +1,5 @@
+bin/
+bower_components/
+node_modules/
+obj/
+paket-files/
