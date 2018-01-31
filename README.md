@@ -1,4 +1,4 @@
-# Fable.Elmish.React Template
+# Fable.Elmish.React + Polymer Template
 ```
 yarn install
 dotnet restore
