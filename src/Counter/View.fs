@@ -15,7 +15,7 @@ importAll "../../bower_components/paper-styles/typography.html"
 let simpleButton txt action dispatch =
     paperButton [
         // ClassName "column is-narrow button"
-        Raised
+        Raised true
         Style [
             BackgroundColor "var(--paper-green-700)"
             Color "white"
